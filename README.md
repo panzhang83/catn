@@ -1,7 +1,7 @@
 # catn
 Contracting Arbitrary Tensor Networks
 
-This repo contains a numpy and pytorch implementation of the algorithm proposed in arXiv:1912.03014
+This repo contains a numpy and pytorch implementation of the algorithm proposed in [arXiv:1912.03014](https://arxiv.org/abs/1912.03014)
 for approximately contracting arbitrary tensor networks. Two examples are included for demonstration the performance of our algorithm.
 
 # Examples for computing free energy of graphical models:
