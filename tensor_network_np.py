@@ -181,7 +181,6 @@ class Tensor_Network_np:
         t_select=0
         t_contract=0
         t_svd=0
-        self.find_low_rank_all_edges()
         while self.G.number_of_edges() > 0:
             t0 =time.time()
             if(self.select == 0):
